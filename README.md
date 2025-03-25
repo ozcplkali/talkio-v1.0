@@ -33,3 +33,7 @@ EXPO_PUBLIC_GEMINI_API="yourKEY"
 ```
 
  
+
+
+https://github.com/user-attachments/assets/779b1a66-8eaa-433d-a5ed-ad5456dbe52a
+
